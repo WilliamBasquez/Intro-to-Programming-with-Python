@@ -349,30 +349,11 @@ You can notice that `input` is a function, but we don't know how it works behind
 1. Write a function that computes the result of Einstein's energy equation:
 	- E = mc^2^ 
 		- (c^2^ is the same as c * c)
-2. Complete the code provided to create a simple tip calculator
-	```
-	def main():
-	    dollars = dollars_to_float(input("How much was the meal? "))
-	    percent = percent_to_float(input("What percentage would you like to tip? "))
-	    tip = dollars * percent
-	    print(f"Leave ${tip:.2f}")
-
-
-	def dollars_to_float(d):
-    # TODO
-
-
-	def percent_to_float(p):
-    # TODO
-
-
-	main()
-	```
+2. Write a code that converts a number in lbs to kg
+	- Use functions!
+3. Write a code that converts a number in Celsius to Fahrenheit
+	- Use functions!
 
 # Project
-- Write a code that converts a number in lbs to kg
-	- Use functions!
-- Write a code that converts a number in Celsius to Fahrenheit
-	- Use functions!
 - Complete the code that tries to guess a number (guessing_game.py)
 	- You should not change the code provided, but you can add as much code as you want
