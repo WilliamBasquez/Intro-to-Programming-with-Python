@@ -374,5 +374,5 @@ You can notice that `input` is a function, but we don't know how it works behind
 	- Use functions!
 - Write a code that converts a number in Celsius to Fahrenheit
 	- Use functions!
-- Complete the code that tries to guess a number
+- Complete the code that tries to guess a number (guessing_game.py)
 	- You should not change the code provided, but you can add as much code as you want
